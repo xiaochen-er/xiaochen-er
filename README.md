@@ -7,12 +7,9 @@
 ![](https://raw.githubusercontent.com/xiaochen-er/xiaochen-er/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
-- 🐕 姓名: 胡东旭
+- 🐕 姓名: 
 - 👦 性别: 男
-- 🧭 年龄: 30
-- 🌏 现居: 山东青岛
-- 📞 手机: 18306390693
-- 🥑 公众号: 【JavaDog程序狗】
+- 🧭 年龄: 
 
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochen-er&layout=compact&theme=tokyonight)   
@@ -21,14 +18,9 @@
 
 | JavaDog| 狗屋地址 |
 | :----:| :----: | 
-| 个人博客 | [https://www.javadog.net](https://www.javadog.net) | 
-| 公众号 | [JavaDog程序狗](https://mp.weixin.qq.com/s/_vgnXoQ8FSobD3OfRAf5gw) | 
-| CSDN  | [https://blog.csdn.net/baidu_25986059](https://blog.csdn.net/baidu_25986059) | 
-| 掘金 | [https://juejin.cn/user/2172290706716775](https://juejin.cn/user/2172290706716775)| 
-| 知乎 | [https://www.zhihu.com/people/JavaDog](https://www.zhihu.com/people/JavaDog) | 
-| 简书| [https://www.jianshu.com/u/1ff9c6bdb916](https://www.jianshu.com/u/1ff9c6bdb916) | 
-| gitee|[https://gitee.com/javadog-net](https://gitee.com/javadog-net)  | 
-| GitHub|[https://github.com/javadog-net](https://github.com/javadog-net)| 
+| 个人博客 | [https://xiao2024.cn](https://xiao2024.cn) | 
+| gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen-er)  | 
+| GitHub|[https://github.com/xiaochen-er](https://github.com/xiaochen-er)| 
 
 ### 文章推荐
 
