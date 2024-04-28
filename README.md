@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![亮色](https://raw.githubusercontent.com/xiaochen-er/xiaochen-er/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/xiaochen-er/xiaochen-er/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
 - 🐕 姓名: 胡东旭
