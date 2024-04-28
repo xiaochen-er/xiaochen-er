@@ -15,7 +15,7 @@
 - 🥑 公众号: 【JavaDog程序狗】
 
 ### 仓库信息
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochen-er&layout=compact&theme=tokyonight)   
 
 ### 博客简介
 
