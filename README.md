@@ -16,8 +16,9 @@
 
 ### 博客简介
 
-| JavaDog| 狗屋地址 |
+| | 地址 |
 | :----:| :----: | 
 | 个人博客 | [https://xiao2024.cn](https://xiao2024.cn) | 
-| gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen-er)  | 
 | GitHub|[https://github.com/xiaochen-er](https://github.com/xiaochen-er)| 
+| gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen-er)  | 
+| bilibili|[https://space.bilibili.com/412891082](https://space.bilibili.com/412891082)  | 
