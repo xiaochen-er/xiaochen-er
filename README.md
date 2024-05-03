@@ -18,6 +18,7 @@
 
 | | 地址 |
 | :----:| :----: | 
+| 邮箱 | admin@mcpal.cn |
 | 个人博客 | [https://xiao2024.cn](https://xiao2024.cn) | 
 | GitHub|[https://github.com/xiaochen-er](https://github.com/xiaochen-er)| 
 | gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen-er)  | 
