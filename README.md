@@ -19,7 +19,7 @@
 | | 地址 |
 | :----:| :----: | 
 | 邮箱 | admin@mcpal.cn |
-| 博客 | [https://xiao2024.cn](https://xiao2024.cn) | 
+| 博客 | [https://blog.xiao2024.cn](https://blog.xiao2024.cn) | 
 | GitHub|[https://github.com/xiaochen-er](https://github.com/xiaochen-er)| 
 | gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen_er)  | 
 | bilibili|[https://space.bilibili.com/412891082](https://space.bilibili.com/412891082)  | 
