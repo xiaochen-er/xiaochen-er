@@ -6,15 +6,10 @@
 
 ![](https://raw.githubusercontent.com/xiaochen-er/xiaochen-er/output/github-contribution-grid-snake.svg)
 
-### 个人简介
-- 🐕 姓名: ***
-- 👦 性别: ***
-- 🧭 年龄: ***
-
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochen-er&layout=compact&theme=tokyonight)   
 
-### 博客简介
+### 信息简介
 
 | | 地址 |
 | :----:| :----: | 
