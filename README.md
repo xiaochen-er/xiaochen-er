@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://blog.xiao2024.cn/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Hello World！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
@@ -14,6 +14,7 @@
 | | 地址 |
 | :----:| :----: | 
 | 邮箱 | admin@mcpal.cn |
+| 主页 | [https://www.mcpal.cn](https://www.mcpal.cn) |
 | 博客 | [https://blog.xiao2024.cn](https://blog.xiao2024.cn) | 
 | GitHub|[https://github.com/xiaochen-er](https://github.com/xiaochen-er)| 
 | gitee|[https://gitee.com/xiaochen-er](https://gitee.com/xiaochen_er)  | 
